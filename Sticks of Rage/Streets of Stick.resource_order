@@ -18,8 +18,11 @@
   ],
   "ResourceOrderSettings":[
     {"name":"Obj_enemy_parent","order":1,"path":"objects/Obj_enemy_parent/Obj_enemy_parent.yy",},
+    {"name":"Obj_Start_Button","order":2,"path":"objects/Obj_Start_Button/Obj_Start_Button.yy",},
+    {"name":"Room_Menu","order":1,"path":"rooms/Room_Menu/Room_Menu.yy",},
     {"name":"Spr_player_punch","order":1,"path":"sprites/Spr_player_punch/Spr_player_punch.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite5","order":16,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"SpriteWall","order":3,"path":"sprites/SpriteWall/SpriteWall.yy",},
     {"name":"TileSet2","order":2,"path":"tilesets/TileSet2/TileSet2.yy",},
   ],

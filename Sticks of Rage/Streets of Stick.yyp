@@ -37,10 +37,13 @@
   "resources":[
     {"id":{"name":"Obj_enemy_parent","path":"objects/Obj_enemy_parent/Obj_enemy_parent.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Obj_Start_Button","path":"objects/Obj_Start_Button/Obj_Start_Button.yy",},},
+    {"id":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},},
+    {"id":{"name":"Testroom","path":"rooms/Testroom/Testroom.yy",},},
     {"id":{"name":"Spr_player_idle","path":"sprites/Spr_player_idle/Spr_player_idle.yy",},},
     {"id":{"name":"Spr_player_punch","path":"sprites/Spr_player_punch/Spr_player_punch.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"SpriteWall","path":"sprites/SpriteWall/SpriteWall.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
@@ -48,7 +51,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room_Menu","path":"rooms/Room_Menu/Room_Menu.yy",},},
+    {"roomId":{"name":"Testroom","path":"rooms/Testroom/Testroom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
