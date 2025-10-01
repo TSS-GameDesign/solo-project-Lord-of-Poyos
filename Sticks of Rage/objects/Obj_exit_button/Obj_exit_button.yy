@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_start_button",
+  "%Name":"Obj_exit_button",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_start_button",
+  "name":"Obj_exit_button",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_start",
-    "path":"sprites/Spr_start/Spr_start.yy",
+    "name":"Spr_exit",
+    "path":"sprites/Spr_exit/Spr_exit.yy",
   },
   "spriteMaskId":null,
   "visible":true,

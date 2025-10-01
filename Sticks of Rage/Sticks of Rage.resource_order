@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Obj_exit_button","order":1,"path":"objects/Obj_exit_button/Obj_exit_button.yy",},
+    {"name":"Spr_exit","order":3,"path":"sprites/Spr_exit/Spr_exit.yy",},
+    {"name":"Spr_player_punch","order":1,"path":"sprites/Spr_player_punch/Spr_player_punch.yy",},
+    {"name":"Spr_start","order":2,"path":"sprites/Spr_start/Spr_start.yy",},
+  ],
+}
