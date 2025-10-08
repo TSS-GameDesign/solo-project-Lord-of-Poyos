@@ -1,2 +1,2 @@
-is_attacking=false;
-show_debug_message("Attack frame finished.");
+is_attacking = false;
+sprite_index = Spr_player_idle;

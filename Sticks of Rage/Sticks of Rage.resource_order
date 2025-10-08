@@ -1,9 +1,17 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"Obj_enemy_basic","order":2,"path":"objects/Obj_enemy_basic/Obj_enemy_basic.yy",},
     {"name":"Obj_exit_button","order":1,"path":"objects/Obj_exit_button/Obj_exit_button.yy",},
+    {"name":"Obj_options_button","order":3,"path":"objects/Obj_options_button/Obj_options_button.yy",},
+    {"name":"Obj_punch","order":4,"path":"objects/Obj_punch/Obj_punch.yy",},
+    {"name":"Spr_enemy_idle","order":4,"path":"sprites/Spr_enemy_idle/Spr_enemy_idle.yy",},
+    {"name":"Spr_enemy_punch","order":7,"path":"sprites/Spr_enemy_punch/Spr_enemy_punch.yy",},
     {"name":"Spr_exit","order":3,"path":"sprites/Spr_exit/Spr_exit.yy",},
+    {"name":"Spr_options","order":5,"path":"sprites/Spr_options/Spr_options.yy",},
+    {"name":"Spr_player_kick","order":8,"path":"sprites/Spr_player_kick/Spr_player_kick.yy",},
     {"name":"Spr_player_punch","order":1,"path":"sprites/Spr_player_punch/Spr_player_punch.yy",},
+    {"name":"Spr_punch_hitbox","order":6,"path":"sprites/Spr_punch_hitbox/Spr_punch_hitbox.yy",},
     {"name":"Spr_start","order":2,"path":"sprites/Spr_start/Spr_start.yy",},
   ],
 }
