@@ -7,6 +7,7 @@
     {"name":"Obj_punch","order":4,"path":"objects/Obj_punch/Obj_punch.yy",},
     {"name":"Spr_enemy_idle","order":4,"path":"sprites/Spr_enemy_idle/Spr_enemy_idle.yy",},
     {"name":"Spr_enemy_punch","order":7,"path":"sprites/Spr_enemy_punch/Spr_enemy_punch.yy",},
+    {"name":"Spr_enemy_windup","order":9,"path":"sprites/Spr_enemy_windup/Spr_enemy_windup.yy",},
     {"name":"Spr_exit","order":3,"path":"sprites/Spr_exit/Spr_exit.yy",},
     {"name":"Spr_options","order":5,"path":"sprites/Spr_options/Spr_options.yy",},
     {"name":"Spr_player_kick","order":8,"path":"sprites/Spr_player_kick/Spr_player_kick.yy",},

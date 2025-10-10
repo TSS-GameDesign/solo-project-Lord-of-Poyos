@@ -46,6 +46,7 @@
     {"id":{"name":"Testroom","path":"rooms/Testroom/Testroom.yy",},},
     {"id":{"name":"Spr_enemy_idle","path":"sprites/Spr_enemy_idle/Spr_enemy_idle.yy",},},
     {"id":{"name":"Spr_enemy_punch","path":"sprites/Spr_enemy_punch/Spr_enemy_punch.yy",},},
+    {"id":{"name":"Spr_enemy_windup","path":"sprites/Spr_enemy_windup/Spr_enemy_windup.yy",},},
     {"id":{"name":"Spr_exit","path":"sprites/Spr_exit/Spr_exit.yy",},},
     {"id":{"name":"Spr_options","path":"sprites/Spr_options/Spr_options.yy",},},
     {"id":{"name":"Spr_player_idle","path":"sprites/Spr_player_idle/Spr_player_idle.yy",},},
