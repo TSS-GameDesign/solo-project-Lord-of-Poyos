@@ -5,4 +5,15 @@ damage = 1;
 
 tilemap = layer_tilemap_get_id("Tiles_walls");
 is_attacking = false;
+has_been_damaged = false;
+blocking = false;
+followup_punch_pp = false;
+followup_punch_kp = false;
+followup_punch_ppp = false;
+followup_punch_kkp = false;
+followup_kick_kk = false;
+followup_kick_pk = false;
+followup_kick_kkk = false;
+followup_kick_ppk = false;
+facing_back = false;
 attack_frames = 15; //delay before next attack//

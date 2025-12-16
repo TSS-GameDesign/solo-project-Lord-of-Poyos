@@ -1,4 +1,16 @@
 distance_to_player = distance_to_object(Obj_player)
+player_found = collision_circle(x,y,80, Obj_player, false, true);
+
+if player_found != noone{ 
+    show_debug_message("player found!");
+    if player_found.x < x{ // If the player is on the left side of the enemy
+        facing_back = false;
+    }
+    else if player_found.x > x { //If the player is on the right side of the enemy.
+        facing_back = true;
+    }
+}
+
 if(has_been_damaged == false) and (is_attacking == false)
 {
     if (alarm[1] >= 0)
